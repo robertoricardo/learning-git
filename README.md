@@ -7,3 +7,5 @@ Alterado para refletir no github
 
 Alterado na DEVELOP
 Adiciona mais uma linha de alteração na DEVELOP
+
+Alterado arquivo na feature/new-feat via github
